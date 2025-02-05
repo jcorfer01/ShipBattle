@@ -2,14 +2,14 @@
 This project is a two player game developed with Python using object-oriented programming.
 <br><br>
 The code has been developed in ‘Visual Studio Code’, with the
-help of the documentation provided by the ‘PyGame’ and ‘StackOverflow’ pages.
+help of the documentation provided by the [‘PyGame’](https://www.pygame.org/news) and [‘StackOverflow’](https://stackoverflow.com) pages.
 <br>
 On the other hand, the images are not copyrighted because most of them were created with
-Bing's AI image generator (‘Copilot | Designer’). The game background has been acquired through the free image bank ‘FreePik’. The images have
-been edited with three browser tools: ‘Iloveimg’ (resize images), ‘Photopea’ (edit image layers), and 'Remove.bg' (remove background).
+[Bing's AI image generator](https://www.bing.com/images/create?toWww=1&redig=DDA9833D58D149B28398193306311B00 ) (‘Copilot | Designer’). The game background has been acquired through the free image bank [‘FreePik’](https://www.freepik.es/vector-gratis/fondo-galaxia-acuarela_21643353.htm#fromView=image_search_similar&page=1&position=17&uuid=94c97f65-08cb-42eb-b659-323a2e24d6d6). The images have
+been edited with three browser tools: [‘Iloveimg’](https://www.iloveimg.com/es/redimensionar-imagen) (resize images), [‘Photopea’](https://www.photopea.com) (edit image layers), and ['Remove.bg'](https://www.remove.bg/es/upload) (remove background).
+<br>
 On the other hand, the music for the menus and during the gameplay has been taken from a
-‘Youtube’ video, whose creator allows its use for any project for free. In turn, the sound effects have been created by recording sounds with a microphone and then
-editing them with ‘Mp3cut’ in order to cut their duration to implement them in the
+[‘Youtube’ video](https://www.youtube.com/watch?v=5bn3Jmvep1k), whose creator allows its use for any project for free. In addition, the sound effects have been created by recording sounds with a microphone and then editing them with [‘Mp3cut’](https://mp3cut.net/es/) in order to cut their duration to implement them in the
 pygame.mixer.Sound(“route”) class.
 <br><br>
 ## The stages of the application:
@@ -19,7 +19,7 @@ pygame.mixer.Sound(“route”) class.
       2. “Pause” Screen
       3. “Game Over” Screen
    2. “Options” Menu
-   3. “History” Menu
+   3. “Match History” Menu
 ## Files structure:
 During the development of the project, the different files that will be used within the project have been organized into folders in order to implement 
 the use of relative paths when accessing these files so that the game can be installed anywhere by the user.
