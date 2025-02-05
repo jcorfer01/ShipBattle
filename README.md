@@ -33,7 +33,7 @@ Right below "sources", we have the "img" folder. Here are all the images used fo
 <br><br>
 The last folder is "music," where all the sound effects ("Shot_Sound.mp3" for the sound of the bullets, and "Impact_Sound.mp3" for when there is any collision) and music played in the "Main Menu" and its submenus ("Menu_Music.mp3") are stored, as well as the music that plays during the "Game" state ("Fight_Music.mp3").
 <br><br>
-The rest of the files are ".py" files, which contain the classes and methods that use the files inside the folders to execute and ensure the proper functioning of the game.
+The rest of the files are ".py" files, which contain the classes and methods that use the files inside the folders to execute and ensure the proper functioning of the game. To start the game you just have to run the "main.py" file and have fun!
 ### NOTES:
 - To be able to run the program, it is mandatory that you have [Visual Studio Code](https://code.visualstudio.com/) and the extension [Python Environment Manager](https://marketplace.visualstudio.com/items?itemName=donjayamanne.python-environment-manager).
 - Inside this repository, you will find the project report in Spanish with more details about the development and management of the application.
