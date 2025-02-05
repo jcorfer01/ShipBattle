@@ -3,15 +3,14 @@ This project is a two player game developed with Python using object-oriented pr
 <br><br>
 The code has been developed in ‘Visual Studio Code’, with the
 help of the documentation provided by the [‘PyGame’](https://www.pygame.org/news) and [‘StackOverflow’](https://stackoverflow.com) pages.
-<br>
+<br><br>
 On the other hand, the images are not copyrighted because most of them were created with
 [Bing's AI image generator](https://www.bing.com/images/create?toWww=1&redig=DDA9833D58D149B28398193306311B00 ) (‘Copilot | Designer’). The game background has been acquired through the free image bank [‘FreePik’](https://www.freepik.es/vector-gratis/fondo-galaxia-acuarela_21643353.htm#fromView=image_search_similar&page=1&position=17&uuid=94c97f65-08cb-42eb-b659-323a2e24d6d6). The images have
 been edited with three browser tools: [‘Iloveimg’](https://www.iloveimg.com/es/redimensionar-imagen) (resize images), [‘Photopea’](https://www.photopea.com) (edit image layers), and ['Remove.bg'](https://www.remove.bg/es/upload) (remove background).
-<br>
+<br><br>
 On the other hand, the music for the menus and during the gameplay has been taken from a
 [‘Youtube’ video](https://www.youtube.com/watch?v=5bn3Jmvep1k), whose creator allows its use for any project for free. In addition, the sound effects have been created by recording sounds with a microphone and then editing them with [‘Mp3cut’](https://mp3cut.net/es/) in order to cut their duration to implement them in the
 pygame.mixer.Sound(“route”) class.
-<br><br>
 ## The stages of the application:
 1. “Main” Menu
    1. “TAG Selection” Menu
@@ -38,4 +37,4 @@ The rest of the files are ".py" files, which contain the classes and methods tha
 ### NOTES:
 - To be able to run the program, it is mandatory that you have [Visual Studio Code](https://code.visualstudio.com/) and the extension [Python Environment Manager](https://marketplace.visualstudio.com/items?itemName=donjayamanne.python-environment-manager).
 - Inside this repository, you will find the project report in Spanish with more details about the development and management of the application.
-- The "stagesImages" folder includes images with the different stages of the game to serve as a visual example of how the application works.
+- The ["stagesImages"](stagesImages) folder includes images with the different stages of the game to serve as a visual example of how the application works.
