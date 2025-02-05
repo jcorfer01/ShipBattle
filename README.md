@@ -36,5 +36,5 @@ The last folder is "music," where all the sound effects ("Shot_Sound.mp3" for th
 The rest of the files are ".py" files, which contain the classes and methods that use the files inside the folders to execute and ensure the proper functioning of the game. To start the game you just have to run the "main.py" file and have fun!
 ### NOTES:
 - To be able to run the program, it is mandatory that you have [Visual Studio Code](https://code.visualstudio.com/) and the extension [Python Environment Manager](https://marketplace.visualstudio.com/items?itemName=donjayamanne.python-environment-manager).
-- Inside this repository, you will find the project report in Spanish with more details about the development and management of the application.
-- The ["stagesImages"](stagesImages) folder includes images with the different stages of the game to serve as a visual example of how the application works as well as a brief example video.
+- Inside this repository, you will find the project report in Spanish with more details about the development and management of the application, as well as a brief example video.
+- The ["stagesImages"](stagesImages) folder includes images with the different stages of the game to serve as a visual example of how the application works.
